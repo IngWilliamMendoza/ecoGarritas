@@ -1,0 +1,14 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "seccion 2 herramienta npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william mendoza",
+  "license": "MIT",
+  "dependencies": {
+    "moments": "0.0.2"
+  }
+}
